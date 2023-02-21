@@ -75,7 +75,6 @@ while i>=1:
 #    *
 
 print("Pattern #7")
-
 i = 1
 while i<=3:
     print(" "*(4-i), "* "*i)
