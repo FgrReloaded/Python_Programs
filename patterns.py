@@ -85,3 +85,24 @@ while i>=1:
     print(" "*(4-i), "* "*i)
     i -= 1
 
+# Pattern 8
+# **********
+# ****  ****
+# ***    ***
+# **      **
+# *        *
+# **      **
+# ***    ***
+# ****  ****
+# **********
+
+print("Pattern #8")
+n = int(input("Enter a number: "))
+i = 5
+while(i>=1):
+    print("*"*i+" "*(n-i)*2+"*"*i)
+    i-=1
+i=1
+while(i<=n):
+    print("*"*i+" "*(n-i)*2+"*"*i)
+    i+=1
