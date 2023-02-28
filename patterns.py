@@ -98,7 +98,7 @@ while i>=1:
 
 print("Pattern #8")
 n = int(input("Enter a number: "))
-i = 5
+i = n
 while(i>=1):
     print("*"*i+" "*(n-i)*2+"*"*i)
     i-=1

@@ -1,0 +1,1 @@
+'a' or 'e' or 'i' or 'o' or 'u'
