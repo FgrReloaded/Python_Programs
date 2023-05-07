@@ -1,11 +1,12 @@
 # Pattern 1
 # *
 # **
-# ***
+# ***   
 # ****
 print("Pattern #1")
+n = int(input())
 i = 1
-while i<=4:
+while i<=n:
     print("*"*i)
     i += 1
 

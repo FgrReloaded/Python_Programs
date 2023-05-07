@@ -45,4 +45,3 @@ print(f"Rabbit = {x} Chicken = {y}")
 
 
 
-
